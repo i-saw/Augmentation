@@ -7,4 +7,4 @@
 3) Создается датасет для сегментации из кадров видео;
 4) Датасет используется для обучения модели сегментации YOLO (если такое необходимо).
 
-![Giga](https://github.com/i-saw/Giga-chat-voice/blob/main/ГИГА.jpg)
+![Creating dataset](https://github.com/i-saw/Creating-dataset-or-augmentation-from-video/blob/main/2024-06-05_11-40-19.png)
